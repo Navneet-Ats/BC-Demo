@@ -1,0 +1,31 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "LocalBC260",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "OnPrem",
+            "server": "http://localhost:8080/BC260",
+            "serverInstance": "BC260",
+            "authentication": "Windows",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "default",
+            "usePublicURLFromServer": true,
+            "port": 7049,
+            "schemaUpdateMode": "ForceSync" 
+               },
+        {
+            "name": "AL: Generated Download Symbols request",
+            "request": "launch",
+            "type": "al",
+            "server": "http://ATS-004",
+            "serverInstance": "BC260",
+            "authentication": "Windows",
+            "port": 7049
+        }
+    ]
+}

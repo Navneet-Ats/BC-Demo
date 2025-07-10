@@ -1,0 +1,40 @@
+{
+    "id": "f66d2b47-4d53-431c-a1f1-a54e58ccaff6",
+    "name": "BC-Testing",
+    "publisher": "Athenasoft Cloud Consulting",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "A01864F8-9C3F-42F6-8328-8D7BE1CE3E20",
+            "name": "_Exclude_Master_Data_Management",
+            "publisher": "Microsoft",
+            "version": "26.0.30643.32481"
+        }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "26.0.30643.32481",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50149
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "15.0",
+    "features": [
+        "NoImplicitWith"
+    ],
+    "supportedLocales": [ "de-DE" ]
+}

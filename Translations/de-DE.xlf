@@ -1,0 +1,375 @@
+<?xml version="1.0" ?>
+<xliff version="1.2">
+  <file source-language="en-US" target-language="de-DE" datatype="xml" original="CustomerTable">
+    <body>
+      <trans-unit id="Field 1 - Caption" xml:space="preserve">
+        <source>No_</source>
+        <target>Kundennummer</target>
+      </trans-unit>
+      <trans-unit id="Field 2 - Caption" xml:space="preserve">
+        <source>Name</source>
+        <target>Kundenname</target>
+      </trans-unit>
+      <trans-unit id="Field 3 - Caption" xml:space="preserve">
+        <source>Search Name</source>
+        <target>Suchname</target>
+      </trans-unit>
+      <trans-unit id="Field 4 - Caption" xml:space="preserve">
+        <source>Name 2</source>
+        <target>Name 2</target>
+      </trans-unit>
+      <trans-unit id="Field 5 - Caption" xml:space="preserve">
+        <source>Address</source>
+        <target>Adresse</target>
+      </trans-unit>
+      <trans-unit id="Field 6 - Caption" xml:space="preserve">
+        <source>Address 2</source>
+        <target>Adresse 2</target>
+      </trans-unit>
+      <trans-unit id="Field 7 - Caption" xml:space="preserve">
+        <source>City</source>
+        <target>Stadt</target>
+      </trans-unit>
+      <trans-unit id="Field 8 - Caption" xml:space="preserve">
+        <source>Contact</source>
+        <target>Kontakt</target>
+      </trans-unit>
+      <trans-unit id="Field 9 - Caption" xml:space="preserve">
+        <source>Phone No_</source>
+        <target>Haupttelefon-Nr.</target>
+      </trans-unit>
+      <trans-unit id="Field 10 - Caption" xml:space="preserve">
+        <source>Telex No_</source>
+        <target>Telex-Nr.</target>
+      </trans-unit>
+      <trans-unit id="Field 11 - Caption" xml:space="preserve">
+        <source>Document Sending Profile</source>
+        <target>Profil für Belegdokumentversand</target>
+      </trans-unit>
+      <trans-unit id="Field 12 - Caption" xml:space="preserve">
+        <source>Ship-to Code</source>
+        <target>Versand-an-Code</target>
+      </trans-unit>
+      <trans-unit id="Field 13 - Caption" xml:space="preserve">
+        <source>Our Account No_</source>
+        <target>Unsere Kontonummer</target>
+      </trans-unit>
+      <trans-unit id="Field 14 - Caption" xml:space="preserve">
+        <source>Territory Code</source>
+        <target>Gebiets-Code</target>
+      </trans-unit>
+      <trans-unit id="Field 15 - Caption" xml:space="preserve">
+        <source>Global Dimension 1 Code</source>
+        <target>Globale Dimension 1 Code</target>
+      </trans-unit>
+      <trans-unit id="Field 16 - Caption" xml:space="preserve">
+        <source>Global Dimension 2 Code</source>
+        <target>Globale Dimension 2 Code</target>
+      </trans-unit>
+      <trans-unit id="Field 17 - Caption" xml:space="preserve">
+        <source>Chain Name</source>
+        <target>Kettenname</target>
+      </trans-unit>
+      <trans-unit id="Field 18 - Caption" xml:space="preserve">
+        <source>Budgeted Amount</source>
+        <target>Geplanter Betrag</target>
+      </trans-unit>
+      <trans-unit id="Field 19 - Caption" xml:space="preserve">
+        <source>Credit Limit (LCY)</source>
+        <target>Kredit-limit (LW)</target>
+      </trans-unit>
+      <trans-unit id="Field 20 - Caption" xml:space="preserve">
+        <source>Customer Posting Group</source>
+        <target>Debitorenbuchungsgruppe</target>
+      </trans-unit>
+      <trans-unit id="Field 21 - Caption" xml:space="preserve">
+        <source>Currency Code</source>
+        <target>Währungscode</target>
+      </trans-unit>
+      <trans-unit id="Field 22 - Caption" xml:space="preserve">
+        <source>Customer Price Group</source>
+        <target>Debitorenpreisgruppe</target>
+      </trans-unit>
+      <trans-unit id="Field 23 - Caption" xml:space="preserve">
+        <source>Language Code</source>
+        <target>Sprachcode</target>
+      </trans-unit>
+      <trans-unit id="Field 24 - Caption" xml:space="preserve">
+        <source>Registration Number</source>
+        <target>Registrierungsnummer</target>
+      </trans-unit>
+      <trans-unit id="Field 25 - Caption" xml:space="preserve">
+        <source>Statistics Group</source>
+        <target>Statistikgruppe</target>
+      </trans-unit>
+      <trans-unit id="Field 26 - Caption" xml:space="preserve">
+        <source>Payment Terms Code</source>
+        <target>Zahlungsbedingungen-Code</target>
+      </trans-unit>
+      <trans-unit id="Field 27 - Caption" xml:space="preserve">
+        <source>Fin_ Charge Terms Code</source>
+        <target>Zinsbedingungen-Code</target>
+      </trans-unit>
+      <trans-unit id="Field 28 - Caption" xml:space="preserve">
+        <source>Salesperson Code</source>
+        <target>Verkäufercode</target>
+      </trans-unit>
+      <trans-unit id="Field 29 - Caption" xml:space="preserve">
+        <source>Shipment Method Code</source>
+        <target>Versandmethode-Code</target>
+      </trans-unit>
+      <trans-unit id="Field 30 - Caption" xml:space="preserve">
+        <source>Shipping Agent Code</source>
+        <target>Versandspediteur-Code</target>
+      </trans-unit>
+      <trans-unit id="Field 31 - Caption" xml:space="preserve">
+        <source>Place of Export</source>
+        <target>Ausfuhrort</target>
+      </trans-unit>
+      <trans-unit id="Field 32 - Caption" xml:space="preserve">
+        <source>Invoice Disc_ Code</source>
+        <target>Rechnungsrabatt-Code</target>
+      </trans-unit>
+      <trans-unit id="Field 33 - Caption" xml:space="preserve">
+        <source>Customer Disc_ Group</source>
+        <target>Debitorenrabattgruppe</target>
+      </trans-unit>
+      <trans-unit id="Field 34 - Caption" xml:space="preserve">
+        <source>Country_Region Code</source>
+        <target>Länder-/Regionscode</target>
+      </trans-unit>
+      <trans-unit id="Field 35 - Caption" xml:space="preserve">
+        <source>Collection Method</source>
+        <target>Inkassomethode</target>
+      </trans-unit>
+      <trans-unit id="Field 36 - Caption" xml:space="preserve">
+        <source>Amount</source>
+        <target>Betrag</target>
+      </trans-unit>
+      <trans-unit id="Field 37 - Caption" xml:space="preserve">
+        <source>Blocked</source>
+        <target>Gesperrt</target>
+      </trans-unit>
+      <trans-unit id="Field 38 - Caption" xml:space="preserve">
+        <source>Invoice Copies</source>
+        <target>Rechnungskopien</target>
+      </trans-unit>
+      <trans-unit id="Field 39 - Caption" xml:space="preserve">
+        <source>Last Statement No_</source>
+        <target>Letzte Kontoauszugsnummer</target>
+      </trans-unit>
+      <trans-unit id="Field 40 - Caption" xml:space="preserve">
+        <source>Print Statements</source>
+        <target>Kontoauszüge drucken</target>
+      </trans-unit>
+      <trans-unit id="Field 41 - Caption" xml:space="preserve">
+        <source>Bill-to Customer No_</source>
+        <target>Rechnung an Debitor-Nr.</target>
+      </trans-unit>
+      <trans-unit id="Field 42 - Caption" xml:space="preserve">
+        <source>Priority</source>
+        <target>Priorität</target>
+      </trans-unit>
+      <trans-unit id="Field 43 - Caption" xml:space="preserve">
+        <source>Payment Method Code</source>
+        <target>Zahlungsmethode-Code</target>
+      </trans-unit>
+      <trans-unit id="Field 44 - Caption" xml:space="preserve">
+        <source>Format Region</source>
+        <target>Formatregion</target>
+      </trans-unit>
+      <trans-unit id="Field 45 - Caption" xml:space="preserve">
+        <source>Last Modified Date Time</source>
+        <target>Zuletzt geändert am</target>
+      </trans-unit>
+      <trans-unit id="Field 46 - Caption" xml:space="preserve">
+        <source>Last Date Modified</source>
+        <target>Letztes Änderungsdatum</target>
+      </trans-unit>
+      <trans-unit id="Field 47 - Caption" xml:space="preserve">
+        <source>Application Method</source>
+        <target>Zuweisungsmethode</target>
+      </trans-unit>
+      <trans-unit id="Field 48 - Caption" xml:space="preserve">
+        <source>Prices Including VAT</source>
+        <target>Preise inkl. MwSt.</target>
+      </trans-unit>
+      <trans-unit id="Field 49 - Caption" xml:space="preserve">
+        <source>Location Code</source>
+        <target>Lagerortcode</target>
+      </trans-unit>
+      <trans-unit id="Field 50 - Caption" xml:space="preserve">
+        <source>Fax No_</source>
+        <target>Fax-Nr.</target>
+      </trans-unit>
+      <trans-unit id="Field 51 - Caption" xml:space="preserve">
+        <source>Telex Answer Back</source>
+        <target>Telex-Antwort</target>
+      </trans-unit>
+      <trans-unit id="Field 52 - Caption" xml:space="preserve">
+        <source>VAT Registration No_</source>
+        <target>USt-IdNr.</target>
+      </trans-unit>
+      <trans-unit id="Field 53 - Caption" xml:space="preserve">
+        <source>Combine Shipments</source>
+        <target>Sendungen zusammenfassen</target>
+      </trans-unit>
+      <trans-unit id="Field 54 - Caption" xml:space="preserve">
+        <source>Gen_ Bus_ Posting Group</source>
+        <target>Allgemeine Geschäftsbuchungsgruppe</target>
+      </trans-unit>
+      <trans-unit id="Field 55 - Caption" xml:space="preserve">
+        <source>GLN</source>
+        <target>GLN</target>
+      </trans-unit>
+      <trans-unit id="Field 56 - Caption" xml:space="preserve">
+        <source>Post Code</source>
+        <target>Postleitzahl</target>
+      </trans-unit>
+      <trans-unit id="Field 57 - Caption" xml:space="preserve">
+        <source>County</source>
+        <target>Bundesland</target>
+      </trans-unit>
+      <trans-unit id="Field 58 - Caption" xml:space="preserve">
+        <source>EORI Number</source>
+        <target>EORI-Nummer</target>
+      </trans-unit>
+      <trans-unit id="Field 59 - Caption" xml:space="preserve">
+        <source>Use GLN in Electronic Document</source>
+        <target>GLN in elektronischem Dokument verwenden</target>
+      </trans-unit>
+      <trans-unit id="Field 60 - Caption" xml:space="preserve">
+        <source>E-Mail</source>
+        <target>E-Mail</target>
+      </trans-unit>
+      <trans-unit id="Field 61 - Caption" xml:space="preserve">
+        <source>Home Page</source>
+        <target>Webseite</target>
+      </trans-unit>
+      <trans-unit id="Field 62 - Caption" xml:space="preserve">
+        <source>Reminder Terms Code</source>
+        <target>Mahnbedingungen-Code</target>
+      </trans-unit>
+      <trans-unit id="Field 63 - Caption" xml:space="preserve">
+        <source>No_ Series</source>
+        <target>Nummernserie</target>
+      </trans-unit>
+      <trans-unit id="Field 64 - Caption" xml:space="preserve">
+        <source>Tax Area Code</source>
+        <target>Steuergebietscode</target>
+      </trans-unit>
+      <trans-unit id="Field 65 - Caption" xml:space="preserve">
+        <source>Tax Liable</source>
+        <target>Steuerpflichtig</target>
+      </trans-unit>
+      <trans-unit id="Field 66 - Caption" xml:space="preserve">
+        <source>VAT Bus_ Posting Group</source>
+        <target>USt-Geschäftsbuchungsgruppe</target>
+      </trans-unit>
+      <trans-unit id="Field 67 - Caption" xml:space="preserve">
+        <source>Reserve</source>
+        <target>Reservieren</target>
+      </trans-unit>
+      <trans-unit id="Field 68 - Caption" xml:space="preserve">
+        <source>Block Payment Tolerance</source>
+        <target>Zahlungstoleranz blockieren</target>
+      </trans-unit>
+      <trans-unit id="Field 69 - Caption" xml:space="preserve">
+        <source>IC Partner Code</source>
+        <target>IC-Partnercode</target>
+      </trans-unit>
+      <trans-unit id="Field 70 - Caption" xml:space="preserve">
+        <source>Prepayment _</source>
+        <target>Vorauszahlung</target>
+      </trans-unit>
+      <trans-unit id="Field 71 - Caption" xml:space="preserve">
+        <source>Partner Type</source>
+        <target>Partnertyp</target>
+      </trans-unit>
+      <trans-unit id="Field 72 - Caption" xml:space="preserve">
+        <source>Intrastat Partner Type</source>
+        <target>Intrastat-Partnertyp</target>
+      </trans-unit>
+      <trans-unit id="Field 73 - Caption" xml:space="preserve">
+        <source>Exclude from Pmt_ Practices</source>
+        <target>Von Zahlungspraktiken ausschließen</target>
+      </trans-unit>
+      <trans-unit id="Field 74 - Caption" xml:space="preserve">
+        <source>Image</source>
+        <target>Bild</target>
+      </trans-unit>
+      <trans-unit id="Field 75 - Caption" xml:space="preserve">
+        <source>Privacy Blocked</source>
+        <target>Datenschutz gesperrt</target>
+      </trans-unit>
+      <trans-unit id="Field 76 - Caption" xml:space="preserve">
+        <source>Disable Search by Name</source>
+        <target>Suche nach Name deaktivieren</target>
+      </trans-unit>
+      <trans-unit id="Field 77 - Caption" xml:space="preserve">
+        <source>Allow Multiple Posting Groups</source>
+        <target>Mehrere Buchungsgruppen zulassen</target>
+      </trans-unit>
+      <trans-unit id="Field 78 - Caption" xml:space="preserve">
+        <source>Preferred Bank Account Code</source>
+        <target>Bevorzugtes Bankkonto</target>
+      </trans-unit>
+      <trans-unit id="Field 79 - Caption" xml:space="preserve">
+        <source>Coupled to CRM</source>
+        <target>Mit CRM gekoppelt</target>
+      </trans-unit>
+      <trans-unit id="Field 80 - Caption" xml:space="preserve">
+        <source>Cash Flow Payment Terms Code</source>
+        <target>Zahlungsbedingungscode für Cashflow</target>
+      </trans-unit>
+      <trans-unit id="Field 81 - Caption" xml:space="preserve">
+        <source>Primary Contact No_</source>
+        <target>Primäre Kontaktperson-Nr.</target>
+      </trans-unit>
+      <trans-unit id="Field 82 - Caption" xml:space="preserve">
+        <source>Contact Type</source>
+        <target>Kontakttyp</target>
+      </trans-unit>
+      <trans-unit id="Field 83 - Caption" xml:space="preserve">
+        <source>Mobile Phone No_</source>
+        <target>Handynummer</target>
+      </trans-unit>
+      <trans-unit id="Field 84 - Caption" xml:space="preserve">
+        <source>Responsibility Center</source>
+        <target>Verantwortungszentrum</target>
+      </trans-unit>
+      <trans-unit id="Field 85 - Caption" xml:space="preserve">
+        <source>Shipping Advice</source>
+        <target>Versandhinweis</target>
+      </trans-unit>
+      <trans-unit id="Field 86 - Caption" xml:space="preserve">
+        <source>Shipping Time</source>
+        <target>Versandzeit</target>
+      </trans-unit>
+      <trans-unit id="Field 87 - Caption" xml:space="preserve">
+        <source>Shipping Agent Service Code</source>
+        <target>Versanddienstleistungs-Code</target>
+      </trans-unit>
+      <trans-unit id="Field 88 - Caption" xml:space="preserve">
+        <source>Price Calculation Method</source>
+        <target>Preiskalkulationsmethode</target>
+      </trans-unit>
+      <trans-unit id="Field 89 - Caption" xml:space="preserve">
+        <source>Allow Line Disc_</source>
+        <target>Positionsrabatt zulassen</target>
+      </trans-unit>
+      <trans-unit id="Field 90 - Caption" xml:space="preserve">
+        <source>Base Calendar Code</source>
+        <target>Basiskalendercode</target>
+      </trans-unit>
+      <trans-unit id="Field 91 - Caption" xml:space="preserve">
+        <source>Copy Sell-to Addr_ to Qte From</source>
+        <target>Verkauf-an-Adresse in Angebot kopieren</target>
+      </trans-unit>
+      <trans-unit id="Field 92 - Caption" xml:space="preserve">
+        <source>Validate EU Vat Reg_ No_</source>
+        <target>EU-USt-ID überprüfen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
